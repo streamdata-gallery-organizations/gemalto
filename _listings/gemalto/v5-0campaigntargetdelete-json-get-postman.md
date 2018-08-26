@@ -1995,20 +1995,4 @@
               }
             ],
             "body": {
-              "mode": "raw"
-            },
-            "description": "User list."
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "e5e5e658-150d-4aef-9d40-53139a5b8ba5"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+              "
