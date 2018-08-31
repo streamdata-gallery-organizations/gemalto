@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28794-www-
 x-kinRank: "6"
 x-alexaRank: "36642"
 tags: Gemalto
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-30"
+modified: "2018-08-30"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/gemalto/master/_listings/gemalto/apis.md
 specificationVersion: "0.14"
 apis:

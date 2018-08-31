@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Gemalto
 x-complete: 1
@@ -2173,4 +2172,3 @@ paths:
       tags:
       - Notification
       - Subscription
----
